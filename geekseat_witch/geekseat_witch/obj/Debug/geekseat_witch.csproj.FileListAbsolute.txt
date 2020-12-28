@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\geekseat_witch\geekseat_witch\bin\Debug\geekseat_witch.exe.config
+C:\Users\ASUS\source\repos\geekseat_witch\geekseat_witch\bin\Debug\geekseat_witch.exe
+C:\Users\ASUS\source\repos\geekseat_witch\geekseat_witch\bin\Debug\geekseat_witch.pdb
+C:\Users\ASUS\source\repos\geekseat_witch\geekseat_witch\obj\Debug\geekseat_witch.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\geekseat_witch\geekseat_witch\obj\Debug\geekseat_witch.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\geekseat_witch\geekseat_witch\obj\Debug\geekseat_witch.exe
+C:\Users\ASUS\source\repos\geekseat_witch\geekseat_witch\obj\Debug\geekseat_witch.pdb
